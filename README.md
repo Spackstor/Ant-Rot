@@ -1,5 +1,6 @@
-# Ant-Rot
-Attic Antenna Rotator
+# Antenna Rotator - ESP8266-12e
+
+This is just annother ESP project, nothing special. 
 
 Far from broadcasters,  I have a number of yagi antenna to consistantly bring in a number of signals. In the summer months however, because the heat stratifies the troposphere, bonus channels are fleetingly available from many directions. A rotating antenna is handy for those.
 

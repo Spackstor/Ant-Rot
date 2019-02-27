@@ -1,6 +1,6 @@
 # Antenna Rotator - ESP8266-12e
 
-This is annother ESP project. 
+This is an ESP8266 project. 
 
 I live far from broadcasters,  so I have a number of yagi antenna to consistantly bring in a number of signals mostly from Watertown. But that is only required because we live far from the transmitters. For most people in larger centers, a rotating antenna is all that is required to get more than enough channels. Mostly in the summer months however, because the heat stratifies the troposphere, bonus channels are sometimes available to me from many directions. A rotating antenna is handy for those. 
 

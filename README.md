@@ -1,8 +1,8 @@
 # Antenna Rotator - ESP8266-12e
 
-This is just annother ESP project, nothing special. 
+This is annother ESP project. 
 
-Far from broadcasters,  I have a number of yagi antenna to consistantly bring in a number of signals. But that is only required because we live far from the transmitters. In the summer months however, because the heat stratifies the troposphere, bonus channels are sometimes available from many directions. A rotating antenna is handy for those. For most people in larger centers, a rotation antenna is all that is required to get more than enough channels.
+I live far from broadcasters,  so I have a number of yagi antenna to consistantly bring in a number of signals mostly from Watertown. But that is only required because we live far from the transmitters. For most people in larger centers, a rotating antenna is all that is required to get more than enough channels. Mostly in the summer months however, because the heat stratifies the troposphere, bonus channels are sometimes available to me from many directions. A rotating antenna is handy for those. 
 
 The end result of this project is a browser based GUI that allows the rotation of an attic antenna. This is accomplished using electronics and a programmed ESP8266-12e in conjunction with a DIY light weight bowtie antenna and a number of printed 3D parts.
 

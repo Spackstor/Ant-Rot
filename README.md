@@ -15,3 +15,7 @@ The antenna shown in the files was built for a friend. Subsequently I decided us
 The gist of the wifi and html is in many programs witch I have used (so no credit to me) but I did figure out the analog IR interface details, and make the multipage adjustment.
 
 On the motor gear with the optical holes, I redrilled the holes on the part for better consistency but this was not really necessary. Adjustments on the values in the program can be made to work with quite variable holes.
+
+It is important to understand that the weigh of this antenna is literally hanging on a string. So make sure the string is more than strong enough. Do your best to position it as near the center of gravity as possible to minimize any lateral forces on the rotator.
+
+Enjoy your free tv.
